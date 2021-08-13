@@ -19,3 +19,8 @@ git log --oneline
 
 // Viajamos al commit en específico f52f3da
 git reset --mixed f52f3da
+
+
+Voy a github y creo un nuevo repositorio despues me va a arrojar archivos como estos, los cuales ejecuto en la terminal
+git remote add origin https://github.com/eacevedo/git-ejemplo.git
+git push -u origin main
